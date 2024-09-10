@@ -1,3 +1,21 @@
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=laraws&show_icons=true&icon_color=805AD5&text_color=718096&bg_color=ffffff&hide_title=true" />
+<pre>
+ _                              
+| | __ _ _ __ __ ___      _____ 
+| |/ _` | '__/ _` \ \ /\ / / __|
+| | (_| | | | (_| |\ V  V /\__ \
+|_|\__,_|_|  \__,_| \_/\_/ |___/
+</pre>
 
-### Hello 👋
+> To follow the path:
+>
+> look to the master,
+>
+> follow the master,
+>
+> walk with the master,
+>
+> see through the master,
+>
+> become the master.
+> 
+> ― Zen
